@@ -21,9 +21,9 @@ class User {
     // アクセス修飾子:「protected」
     // メソッド名:「printAccountInfo」
     protected void printAccountInfo () {
-    	System.out.println(userName);
-    	System.out.println(id);
-    	System.out.println(password);
+    	System.out.println("ユーザー名は、"+userName);
+    	System.out.println("IDは、"+id);
+    	System.out.println("パスワードは、"+password);
     }
 
 }
