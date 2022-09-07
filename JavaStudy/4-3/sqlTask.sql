@@ -1,4 +1,8 @@
 
+ ■ [回答]と記載のある箇所へ、1〜8の各課題内容に沿ったSQL文を記述しなさい。 
+
+
+
 
 1. 店舗テーブルから店舗名を抽出しなさい。また、列名の表示は別名で'店舗名'とすること。
 [回答]   select store_name from store_table
@@ -34,5 +38,3 @@ WHERE goods_code= 'S987' AND store_code= 'EA01'
 
 -- 8. 7で更新した商品を削除しなさい。※実行後のSELECT結果も貼付すること。
 -- [回答]DELETE FROM stock_table
-
-
