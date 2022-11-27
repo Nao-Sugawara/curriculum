@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+/Users/macos/LetsEngineer/curriculum/JavaStudy/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1130287062.index
+/JspTest/src/main/java
+/Users/macos/LetsEngineer/curriculum/JavaStudy/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/988309265.index
+/SchoolWork15/src/main/java
+/Users/macos/LetsEngineer/curriculum/JavaStudy/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1793989285.index
+/SchooCampus/src/main/java
+/Users/macos/LetsEngineer/curriculum/JavaStudy/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3305443137.index
+/SchooCampus/src/main/java
+/Users/macos/LetsEngineer/curriculum/JavaStudy/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/438659366.index
+/Check3/src/main/java

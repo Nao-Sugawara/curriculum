@@ -1,0 +1,8 @@
+127.0.0.1 - - [16/Sep/2022:22:43:10 +0900] "GET / HTTP/1.1" 404 901
+0:0:0:0:0:0:0:1 - - [16/Sep/2022:22:43:12 +0900] "GET /SchoolWork13/WEB-INF/classes/SampleServlet.java HTTP/1.1" 404 808
+0:0:0:0:0:0:0:1 - - [16/Sep/2022:22:47:10 +0900] "GET /SchoolWork13/ HTTP/1.1" 404 918
+0:0:0:0:0:0:0:1 - - [16/Sep/2022:22:51:17 +0900] "GET /SchoolWork13/SampleServlet HTTP/1.1" 404 931
+127.0.0.1 - - [16/Sep/2022:22:53:51 +0900] "GET / HTTP/1.1" 404 901
+0:0:0:0:0:0:0:1 - - [16/Sep/2022:22:53:52 +0900] "GET /SchoolWork13/SampleServlet HTTP/1.1" 200 5
+127.0.0.1 - - [16/Sep/2022:23:02:55 +0900] "GET / HTTP/1.1" 404 901
+0:0:0:0:0:0:0:1 - - [16/Sep/2022:23:02:56 +0900] "GET /SchoolWork13/sample.html HTTP/1.1" 200 111

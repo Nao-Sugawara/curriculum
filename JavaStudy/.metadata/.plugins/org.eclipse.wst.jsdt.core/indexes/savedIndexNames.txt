@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+/Users/macos/LetsEngineer/curriculum/JavaStudy/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4222055287.index
+1067390818.index
+3193715793.index
+91104835.index
+3356723085.index
+2288129066.index
+1914038163.index
+2362296995.index
